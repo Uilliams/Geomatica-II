@@ -1,0 +1,40 @@
+Dados de 01/01/2019
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Dados de temperatura da superfície do mar do AVHRR
+
+https://www.ncei.noaa.gov/data/sea-surface-temperature-optimum-interpolation/v2.1/access/avhrr/201901/
+oisst-avhrr-oisst-avhrr-v02r01.20190101.nc	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Localização N(40)/S(-83)/W(-60)/E(30)
+Dados de 01/01/2019
+profundidade de 0-200 m
+
+Dados de corrente u e v do forecast
+
+https://resources.marine.copernicus.eu/product-download/GLOBAL_ANALYSISFORECAST_PHY_CPL_001_015
+GLOBAL_ANALYSISFORECAST_PHY_CPL_001_015
+Global Ocean 1/4° Physics Analysis and Forecast updated Daily
+Análise e Previsão Física do Oceano Global 1/4° atualizada diariamente
+
+Dados de corrente u e v do forecast
+Conjunto de dados: MetO-GLO-PHY-CPL-dm-CUR
+
+Dados de salinidade do forecast
+Conjunto de dados: MetO-GLO-PHY-CPL-dm-SAL
+
+Dados de temperatura potencial
+Conjunto de dados: MetO-GLO-PHY-CPL-dm-TEM
+
+dm = Dados de média diária
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Dados Mensais de Satelite da Clorofila 01/02/2021 - 01/03/2021
+Dados Mensais de Modelo da Clorofila 15/02/2021 - 16/03/2021
+-30S 10N -48W -24W
+
+Dados de clorofila
+
+
